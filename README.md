@@ -47,7 +47,7 @@
 
 ## 👤 Author
 
-* **Developer:** ItsMynaX (son171020)
+* **Developer:** ItsMynaX 
 * **Build:** v1.5 Stable Global
 * **Stack:** PowerShell | XAML | C#
 
